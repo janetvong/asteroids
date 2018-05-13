@@ -660,7 +660,7 @@ Asteroid = function () {
               -4, -10,
               -4,  -5]);
 
-  this.color = 'lightgray';
+  this.color = 'navy';
   this.solid = true;
   this.visible = true;
   this.scale = 6;
